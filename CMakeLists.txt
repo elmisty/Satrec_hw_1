@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(hw_1 main.c manage.c)

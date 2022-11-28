@@ -1,0 +1,3 @@
+/Users/elmisty/Desktop/Programming/SatrecI/CMakeFiles/hw_1.dir
+/Users/elmisty/Desktop/Programming/SatrecI/CMakeFiles/edit_cache.dir
+/Users/elmisty/Desktop/Programming/SatrecI/CMakeFiles/rebuild_cache.dir
