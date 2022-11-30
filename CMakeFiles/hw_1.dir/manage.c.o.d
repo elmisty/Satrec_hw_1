@@ -1,6 +1,6 @@
 CMakeFiles/hw_1.dir/manage.c.o: \
-  /Users/elmisty/Desktop/Programming/SatrecI/manage.c \
-  /Users/elmisty/Desktop/Programming/SatrecI/manage.h \
+  /Users/elmisty/Desktop/Programming/Satrec_hw_1/manage.c \
+  /Users/elmisty/Desktop/Programming/Satrec_hw_1/manage.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/cdefs.h \

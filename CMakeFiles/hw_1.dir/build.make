@@ -53,10 +53,10 @@ RM = /opt/homebrew/Cellar/cmake/3.24.3/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/elmisty/Desktop/Programming/SatrecI
+CMAKE_SOURCE_DIR = /Users/elmisty/Desktop/Programming/Satrec_hw_1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/elmisty/Desktop/Programming/SatrecI
+CMAKE_BINARY_DIR = /Users/elmisty/Desktop/Programming/Satrec_hw_1
 
 # Include any dependencies generated for this target.
 include CMakeFiles/hw_1.dir/depend.make
@@ -72,30 +72,30 @@ include CMakeFiles/hw_1.dir/flags.make
 CMakeFiles/hw_1.dir/main.c.o: CMakeFiles/hw_1.dir/flags.make
 CMakeFiles/hw_1.dir/main.c.o: main.c
 CMakeFiles/hw_1.dir/main.c.o: CMakeFiles/hw_1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/elmisty/Desktop/Programming/SatrecI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/hw_1.dir/main.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hw_1.dir/main.c.o -MF CMakeFiles/hw_1.dir/main.c.o.d -o CMakeFiles/hw_1.dir/main.c.o -c /Users/elmisty/Desktop/Programming/SatrecI/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/elmisty/Desktop/Programming/Satrec_hw_1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/hw_1.dir/main.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hw_1.dir/main.c.o -MF CMakeFiles/hw_1.dir/main.c.o.d -o CMakeFiles/hw_1.dir/main.c.o -c /Users/elmisty/Desktop/Programming/Satrec_hw_1/main.c
 
 CMakeFiles/hw_1.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/hw_1.dir/main.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/elmisty/Desktop/Programming/SatrecI/main.c > CMakeFiles/hw_1.dir/main.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/elmisty/Desktop/Programming/Satrec_hw_1/main.c > CMakeFiles/hw_1.dir/main.c.i
 
 CMakeFiles/hw_1.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/hw_1.dir/main.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/elmisty/Desktop/Programming/SatrecI/main.c -o CMakeFiles/hw_1.dir/main.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/elmisty/Desktop/Programming/Satrec_hw_1/main.c -o CMakeFiles/hw_1.dir/main.c.s
 
 CMakeFiles/hw_1.dir/manage.c.o: CMakeFiles/hw_1.dir/flags.make
 CMakeFiles/hw_1.dir/manage.c.o: manage.c
 CMakeFiles/hw_1.dir/manage.c.o: CMakeFiles/hw_1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/elmisty/Desktop/Programming/SatrecI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/hw_1.dir/manage.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hw_1.dir/manage.c.o -MF CMakeFiles/hw_1.dir/manage.c.o.d -o CMakeFiles/hw_1.dir/manage.c.o -c /Users/elmisty/Desktop/Programming/SatrecI/manage.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/elmisty/Desktop/Programming/Satrec_hw_1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/hw_1.dir/manage.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hw_1.dir/manage.c.o -MF CMakeFiles/hw_1.dir/manage.c.o.d -o CMakeFiles/hw_1.dir/manage.c.o -c /Users/elmisty/Desktop/Programming/Satrec_hw_1/manage.c
 
 CMakeFiles/hw_1.dir/manage.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/hw_1.dir/manage.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/elmisty/Desktop/Programming/SatrecI/manage.c > CMakeFiles/hw_1.dir/manage.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/elmisty/Desktop/Programming/Satrec_hw_1/manage.c > CMakeFiles/hw_1.dir/manage.c.i
 
 CMakeFiles/hw_1.dir/manage.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/hw_1.dir/manage.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/elmisty/Desktop/Programming/SatrecI/manage.c -o CMakeFiles/hw_1.dir/manage.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/elmisty/Desktop/Programming/Satrec_hw_1/manage.c -o CMakeFiles/hw_1.dir/manage.c.s
 
 # Object files for target hw_1
 hw_1_OBJECTS = \
@@ -109,7 +109,7 @@ hw_1: CMakeFiles/hw_1.dir/main.c.o
 hw_1: CMakeFiles/hw_1.dir/manage.c.o
 hw_1: CMakeFiles/hw_1.dir/build.make
 hw_1: CMakeFiles/hw_1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/elmisty/Desktop/Programming/SatrecI/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable hw_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/elmisty/Desktop/Programming/Satrec_hw_1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable hw_1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hw_1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -121,6 +121,6 @@ CMakeFiles/hw_1.dir/clean:
 .PHONY : CMakeFiles/hw_1.dir/clean
 
 CMakeFiles/hw_1.dir/depend:
-	cd /Users/elmisty/Desktop/Programming/SatrecI && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/elmisty/Desktop/Programming/SatrecI /Users/elmisty/Desktop/Programming/SatrecI /Users/elmisty/Desktop/Programming/SatrecI /Users/elmisty/Desktop/Programming/SatrecI /Users/elmisty/Desktop/Programming/SatrecI/CMakeFiles/hw_1.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/elmisty/Desktop/Programming/Satrec_hw_1 && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/elmisty/Desktop/Programming/Satrec_hw_1 /Users/elmisty/Desktop/Programming/Satrec_hw_1 /Users/elmisty/Desktop/Programming/Satrec_hw_1 /Users/elmisty/Desktop/Programming/Satrec_hw_1 /Users/elmisty/Desktop/Programming/Satrec_hw_1/CMakeFiles/hw_1.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/hw_1.dir/depend
 
